@@ -7,14 +7,14 @@
 
 <br>Change you dataset folder accordingly (These are trained on kaggle kernel(GPU enabled, Internet enabled))<br>
 
-##Requirements
+## Requirements
 
-###Keras trials
+### Keras trials
 * `scipy`
 * `keras`
 * `sklearn`
 
-###Pytorch trials
+### Pytorch trials
 * `torch`
 * `torchsummary`
 * `tqdm`
