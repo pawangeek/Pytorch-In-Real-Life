@@ -19,3 +19,7 @@
 * `torchsummary`
 * `tqdm`
 
+## NOTE
+
+* Pytorch trials with data augmentation is Under construction and for trials
+
