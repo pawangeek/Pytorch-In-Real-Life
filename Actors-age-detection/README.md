@@ -5,7 +5,7 @@
 * `old`
 * `Middle`
 
-** Change you dataset folder accordingly (These are trained on kaggle kernel(GPU enabled, Internet enabled))**
+<br>Change you dataset folder accordingly (These are trained on kaggle kernel(GPU enabled, Internet enabled))<br>
 
 ##Requirements
 
