@@ -9,4 +9,4 @@
 * `torchvision`
 * `torchsummary`
 * `matplotlib` and `seaborn`
-* `numpy and `pandas` 
+* `numpy` and `pandas` 
