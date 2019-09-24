@@ -6,6 +6,7 @@
 * MNIST-sign-language-detection(Vanilla Conv1d net)
 * Retinal-Image-classification(Data augmentation + vgg16)
 * Signature-verification (Siamese net)
+* Stock-price-predictor (LSTM)
 * Torn-Shirt-classification (vgg16)
 
 ## Related blogs
