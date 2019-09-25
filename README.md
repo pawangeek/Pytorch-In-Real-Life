@@ -1,4 +1,4 @@
-# pytorch-notebooks
+# Pytorch-In-Real-Life
 
 ## Related notebooks
 * Actors-age-detection(Conv2d net)
