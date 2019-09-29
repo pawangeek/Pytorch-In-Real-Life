@@ -3,6 +3,7 @@
 ## Related notebooks
 * Actors-age-detection(Conv2d net)
 * Cactus-Identification (Efficient net)
+* Credit-card-fraud-Detection(Autoencoders)
 * MNIST-sign-language-detection(Vanilla Conv1d net)
 * Retinal-Image-classification(Data augmentation + vgg16)
 * Signature-verification (Siamese net)
