@@ -1,25 +1,12 @@
 # Predicting Actors age 
+
 ### We have to predict age from following categories
 
 * `Young`
 * `old`
 * `Middle`
 
-<br>Change you dataset folder accordingly (These are trained on kaggle kernel(GPU enabled, Internet enabled))<br>
-
-## Requirements
-
-### Keras trials
-* `scipy`
-* `keras`
-* `sklearn`
-
-### Pytorch trials
-* `torch`
-* `torchsummary`
-* `tqdm`
-
 ## NOTE
 
-* Pytorch trials with data augmentation is Under construction and for trials
-
+* 'pytorch_resnet` is updated code and tested in Kaggle environment with gpu, internet enabled
+* Data is taken from [Analytics Vidhya Hackathon](https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/) 
